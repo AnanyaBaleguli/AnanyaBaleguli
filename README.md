@@ -28,3 +28,16 @@ A recent MCA graduate who enjoys turning ideas into practical applications throu
 - Developed projects including **Honey Antimicrobial Prediction**, **Real Estate Booking Management**, **Road Condition Prediction**, and a **BMI Calculator**
 - Always curious to learn, experiment, and grow through real-world projects
 - Open to **Software Engineer, Python Developer, Backend Developer, AI/ML Engineer, and Full Stack Developer** opportunities
+
+## Experience
+
+### AI/ML Intern — CodeLab Systems
+**Dec 2024 – Feb 2025**
+
+🔹 Worked on data preprocessing and analysis using **Python, Pandas, and SQL**.
+
+🔹 Optimized SQL queries to improve data retrieval efficiency.
+
+🔹 Built visualizations with **Matplotlib** and **Seaborn** to communicate model insights.
+
+🔹 Contributed to machine learning workflows including data cleaning, feature preparation, and model evaluation.
