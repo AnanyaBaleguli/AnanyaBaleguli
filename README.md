@@ -39,4 +39,4 @@ A recent MCA graduate who enjoys turning ideas into practical applications throu
 - Cleaned and prepared data using Pandas.
 - Built and tested machine learning models to predict car prices.
 - Used Matplotlib to visualize data and model results.
-- Improved my knowledge of Python, SQL, and machine learning through real-world project work.
+- Improved my knowledge of Python and machine learning through real-world project work.
