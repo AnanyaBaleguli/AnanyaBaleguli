@@ -3,15 +3,15 @@
 </p>
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Say%20Hello-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
   </a>
-
+  &nbsp;&nbsp;
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/View-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7C3AED"/>
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
   </a>
 </p>
 
