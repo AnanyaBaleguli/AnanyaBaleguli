@@ -29,15 +29,14 @@ A recent MCA graduate who enjoys turning ideas into practical applications throu
 - Always curious to learn, experiment, and grow through real-world projects
 - Open to **Software Engineer, Python Developer, Backend Developer, AI/ML Engineer, and Full Stack Developer** opportunities
 
+------
 ## Experience
 
-### AI/ML Intern — CodeLab Systems
+### AI/ML Intern | CodeLab Systems
 **Dec 2024 – Feb 2025**
 
-🔹 Worked on data preprocessing and analysis using **Python, Pandas, and SQL**.
-
-🔹 Optimized SQL queries to improve data retrieval efficiency.
-
-🔹 Built visualizations with **Matplotlib** and **Seaborn** to communicate model insights.
-
-🔹 Contributed to machine learning workflows including data cleaning, feature preparation, and model evaluation.
+- Worked on a **Car Price Prediction** project using Python and Machine Learning.
+- Cleaned and prepared data using Pandas.
+- Built and tested machine learning models to predict car prices.
+- Used Matplotlib to visualize data and model results.
+- Improved my knowledge of Python, SQL, and machine learning through real-world project work.
