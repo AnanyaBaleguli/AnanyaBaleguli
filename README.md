@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/ananya-b-33663b348">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
-  <!-- &nbsp;&nbsp; -->
+  &nbsp;&nbsp;
   <a href="mailto:ananyabaleguli@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
   </a>
-  <!-- &nbsp;&nbsp; -->
+  &nbsp;&nbsp;
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
   </a>
