@@ -40,3 +40,29 @@ A recent MCA graduate who enjoys turning ideas into practical applications throu
 - Built and tested machine learning models to predict car prices.
 - Used Matplotlib to visualize data and model results.
 - Improved my knowledge of Python and machine learning through real-world project work.
+
+----
+##  Projects
+
+### Honey Antimicrobial Property Prediction
+A machine learning application that predicts the antimicrobial property of honey using physicochemical data. Built with Python and Scikit-learn to provide accurate predictions through a simple web interface.
+
+---
+
+### Real Estate Booking Management System
+A Django-based web application for property listing, booking, rental management, and user authentication. Designed to simplify property search and booking for users.
+
+---
+
+### Road Condition Prediction
+A machine learning project that predicts road conditions using different road and environmental factors. The system helps in understanding road quality through data analysis and prediction.
+
+---
+
+###  BMI Calculator
+A responsive web application that calculates Body Mass Index (BMI) and shows health categories based on WHO standards. Developed using HTML, CSS, JavaScript, and Flask.
+
+---
+
+###  Car Price Prediction
+A machine learning project that predicts the price of used cars based on different vehicle features. Built using Python, Pandas, and Scikit-learn to help estimate car prices accurately.
