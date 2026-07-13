@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://ananaya222.github.io/portfolio/">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
   </a>
 </p>
@@ -100,6 +100,6 @@ Vivekananda College of Arts, Science and Commerce
 
 **LinkedIn:** https://www.linkedin.com/in/ananya-b-33663b348
 
-**Portfolio:** https://your-portfolio.com
+**Portfolio:** https://ananaya222.github.io/portfolio/
 
 **GitHub:** https://github.com/Ananaya222
