@@ -51,7 +51,7 @@ A recent MCA graduate who enjoys turning ideas into practical applications throu
 ----
 ##  Projects
 
-###  [Honey Antimicrobial Property Prediction](YOUR_HONEY_REPO_LINK)
+###  [Honey Antimicrobial Property Prediction](https://github.com/Ananaya222/Honey_Prediction)
 A machine learning application that predicts the antimicrobial property of honey using physicochemical data. Built with Python and Scikit-learn to provide accurate predictions through a simple web interface.
 
 ---
