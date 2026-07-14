@@ -67,7 +67,7 @@ A responsive web application that calculates Body Mass Index (BMI) and shows hea
 
 ---
 
-###  [Car Price Prediction](YOUR_CAR_PRICE_REPO_LINK)
+###  [Car Price Prediction](https://github.com/Ananaya222/Car-Price-Prediction)
 A machine learning project that predicts the price of used cars based on different vehicle features. Built using Python, Pandas, and Scikit-learn to help estimate car prices accurately.
 
 -------
