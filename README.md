@@ -111,4 +111,4 @@ Vivekananda College of Arts, Science and Commerce
 
 **GitHub:** https://github.com/Ananaya222
 
-**Resume:** https://drive.google.com/file/d/1b7APg0iUB6acbdNYRYEbRIz2OVWg3Zb5/view?usp=sharing
+
