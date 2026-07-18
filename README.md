@@ -2,7 +2,7 @@
   <img src="banner_image.png" alt="GitHub Banner" width="100%">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ananya-b-33663b348" target="_blank">
+  <a href="https://www.linkedin.com/in/ananyabaleguli" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
   &nbsp;&nbsp;
@@ -105,7 +105,7 @@ Vivekananda College of Arts, Science and Commerce
 
 **Email:** ananyabaleguli@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in/ananya-b-33663b348
+**LinkedIn:** https://www.linkedin.com/in/ananyabaleguli
 
 **Portfolio:** https://ananyabaleguli.github.io/portfolio/
 
